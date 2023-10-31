@@ -1,0 +1,4 @@
+user, add@email.com, pas123, Fristname, Lastname, 25 
+user, ayon@email.com, 123457, Ayon, Islam, 28
+admin, medul@email.com, medul25, medul, hossain, 35
+ user,alex@email.com,123456,ALEX,jon,25
